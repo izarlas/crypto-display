@@ -6,7 +6,8 @@ This project aims to display graphs with the real time price of assets, using Re
 
 ## Getting started
 
-- The React frontend is accessible at `localhost:5173`
+- The React frontend is accessible at `http://localhost:5173/`
+- The Nest backend is accessible at `http://localhost:3000/`
 
 ## OpenApi specifications
 
