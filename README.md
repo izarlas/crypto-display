@@ -6,6 +6,7 @@ This project aims to display graphs with the real time price of assets, using Re
 
 ## Getting started
 
+- Install node dependencies from root `npm install`
 - The React frontend is accessible at `http://localhost:5173/`
 - The Nest backend is accessible at `http://localhost:3000/`
 
