@@ -2,15 +2,15 @@
 
 This project aims to display graphs with the real time price of assets, using React, Nest and TypeScript.
 
-## Features
-
 ## Getting started
 
 - Install node dependencies from root `npm install`
-- The React frontend is accessible at `http://localhost:5173/`
-- The Nest backend is accessible at `http://localhost:3000/`
+- Run the react frontend with `npm run start:frontend` from root and access it at `http://localhost:5173/`
+- Run the nest backend with `npm run start:backend` from root and access it at `http://localhost:3000/`
 
 ## OpenApi specifications
+
+## Testing
 
 ## License
 

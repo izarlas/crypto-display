@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "target": "ES2023",
+    "noFallthroughCasesInSwitch": true
+  },
+  "exclude": ["node_modules", "dist", "**/dist", "**/node_modules"]
+}
